@@ -1,4 +1,5 @@
 # CI-demo
 Practice setting up Continuous Integration
 
-local edit
+Local edit.
+Remote Edit.
