@@ -1,2 +1,2 @@
 # CI-dem
-CIdem
+Practice setting up Continuous Integration
